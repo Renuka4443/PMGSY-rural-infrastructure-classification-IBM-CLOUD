@@ -1,4 +1,4 @@
-# 🚧 PMGSY Rural Infrastructure Classification – IBM Cloud (Watsonx.ai)
+# 🚧 PMGSY Rural Infrastructure Classification – IBM Cloud
 
 This project leverages **IBM Watsonx.ai**, **Cloud Object Storage**, and **machine learning** techniques to classify rural infrastructure projects under the **Pradhan Mantri Gram Sadak Yojana (PMGSY)** schemes using publicly available data from **AI Kosh**.
 
